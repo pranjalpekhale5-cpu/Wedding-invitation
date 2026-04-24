@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>प्रमिला & कुणाल - शादी का निमंत्रण</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            max-width: 600px;
+            padding: 40px;
+            text-align: center;
+        }
+        .header {
+            color: #d4af37;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+            font-size: 32px;
+            margin: 20px 0;
+        }
+        .names {
+            color: #667eea;
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .divider {
+            height: 2px;
+            background: #d4af37;
+            margin: 20px 0;
+        }
+        .event {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f5f5f5;
+            border-left: 4px solid #667eea;
+        }
+        .event-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        .event-details {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.8;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">🙏 श्री. गणेशाय नमः 🙏</div>
+        
+        <h1>सस्नेह निमंत्रण</h1>
+        
+        <div class="names">
+            <p><strong>चिरंजीव. कुणाल</strong></p>
+            <p style="margin: 10px 0;">&</p>
+            <p><strong>सौभाग्यकांक्षिणी. अंजली</strong></p>
+        </div>
+        
+        <div class="divider"></div>
+        
+        <div class="event">
+            <div class="event-title">💒 मांडव समारंभ</div>
+            <div class="event-details">
+                <p><strong>तारीख:</strong> रविवार, 03 मई 2026</p>
+                <p><strong>समय:</strong> 09:00 AM</p>
+                <p><strong>स्थान:</strong> नवीन निवासस्थानी (गंगापुर)</p>
+            </div>
+        </div>
+        
+        <div class="event">
+            <div class="event-title">✨ मेहंदी व संगीत</div>
+            <div class="event-details">
+                <p><strong>तारीख:</strong> सोमवार, 04 मई 2026</p>
+                <p><strong>समय:</strong> 05:30 PM</p>
+                <p><strong>स्थान:</strong> ग्रेप काउंटी इको रिसॉर्ट</p>
+                <p>त्र्यंबकेश्वर रोड, अंजनेरी वढोली फाटा समोर</p>
+                <p>महाराष्ट्र 422213</p>
+            </div>
+        </div>
+        
+        <div class="event">
+            <div class="event-title">🕉️ विवाहस्थळ</div>
+            <div class="event-details">
+                <p><strong>तारीख:</strong> रविवार, 10 मई 2026</p>
+                <p><strong>समय:</strong> वैदिक पद्धतीने</p>
+                <p><strong>स्थान:</strong> त्रियुगीनारायण मंदिर</p>
+                <p>त्रियुगीनारायण गाँव, सोनप्रयाग</p>
+                <p>रुद्रप्रयाग जिला, उत्तराखंड - 246471</p>
+            </div>
+        </div>
+        
+        <div class="event">
+            <div class="event-title">🎉 लग्नाचा स्वागत समारंभ</div>
+            <div class="event-details">
+                <p><strong>तारीख:</strong> बुधवार, 13 मई 2026</p>
+                <p><strong>समय:</strong> 07:30 PM</p>
+                <p><strong>स्थान:</strong> ग्रेप काउंटी इको रिसॉर्ट</p>
+                <p>त्र्यंबकेश्वर रोड, अंजनेरी वढोली फाटा समोर</p>
+                <p>महाराष्ट्र 422213</p>
+            </div>
+        </div>
+        
+        <div class="divider"></div>
+        
+        <p style="margin: 20px 0; font-size: 16px; color: #333;">
+            या शुभमंगल प्रसंगी आपण सहकुटूंब सहपरिवार उपस्थित राहून वधु वरास शुभ आशिर्वाद दयावेत।
+        </p>
+        
+        <p style="margin-top: 20px; font-size: 14px; color: #667eea;">
+            <strong>आपले विनित</strong><br>
+            श्री. धनाजी रावसाहेब पा. पेखळे
+        </p>
+        
+        <div class="footer">
+            <p>Created with ❤️ using Vercel</p>
+        </div>
+    </div>
+</body>
+</html>
